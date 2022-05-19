@@ -20,13 +20,13 @@ This repo was made to showcase my **basic git skills**. I used it to prove my kn
 
 ### Code block
 1. `git init`.
-2. `git add readme.md`
-3. `git remote add origin `
-4. `https://github.com/DefinitelyJuan/gitshowcase.git`
-5. `git commit -m "added readme.md"`
-6. `git push --set-upstream origin main`
-7. `git fetch`
-8. `git pull'
+2. `git add readme.md`.
+3. `git remote add origin `.
+4. `https://github.com/DefinitelyJuan/gitshowcase.git`.
+5. `git commit -m "added readme.md"`.
+6. `git push --set-upstream origin main`.
+7. `git fetch`.
+8. `git pull`.
 
 ### Table
 
